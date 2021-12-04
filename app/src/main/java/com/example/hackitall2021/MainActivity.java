@@ -9,6 +9,9 @@ import android.widget.Button;
 
 import com.example.hackitall2021.Database.InputLoader;
 
+import java.io.IOException;
+import java.io.InputStream;
+
 public class MainActivity extends AppCompatActivity {
     private Button button;
 
@@ -21,15 +24,14 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                openActivity2();
+                    openActivity2();
             }
         });
     }
     public void openActivity2() {
         Intent intent = new Intent(this, Activity2.class);
         startActivity(intent);
-        InputLoader inputLoader = new InputLoader("database.json");
-        inputLoader.readData();
+
 
     }
 }
