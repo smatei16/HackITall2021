@@ -5,31 +5,25 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@drawable/gradient_background">
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="150dp"
-        app:srcCompat="@drawable/munti"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="191dp" />
+    android:background="@drawable/plaja">
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="210dp"
+        android:layout_height="59dp"
         android:layout_marginStart="150dp"
         android:layout_marginEnd="150dp"
-        android:layout_marginBottom="342dp"
-        android:background="#000000"
-        android:backgroundTint="#000000"
-        android:text="Travel safe with us!"
+        android:background="#38b5aa"
+        android:text="@string/travel_safe_with_us"
+        android:textColor="#434247"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        app:iconTint="#38b5aa"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.505"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView"
-        app:layout_constraintVertical_bias="0.0" />
-
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.421" />
 </androidx.constraintlayout.widget.ConstraintLayout>
