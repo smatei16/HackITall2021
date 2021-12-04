@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.example.hackitall2021.Database.InputLoader;
+
 public class MainActivity extends AppCompatActivity {
     private Button button;
 
@@ -26,5 +28,8 @@ public class MainActivity extends AppCompatActivity {
     public void openActivity2() {
         Intent intent = new Intent(this, Activity2.class);
         startActivity(intent);
+        InputLoader inputLoader = new InputLoader("database.json");
+        inputLoader.readData();
+
     }
 }

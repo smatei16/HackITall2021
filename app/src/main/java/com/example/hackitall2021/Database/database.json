@@ -1,0 +1,37 @@
+{
+    "database": {
+        "country": [
+            {
+                "countryID": 1,
+                "name": "Russia",
+                "case_rate": 3.7,
+                "new_cases": 66900,
+                "new_deaths": 1918,
+                "avg_cases": 1597,
+                "avg_deaths": 8565,
+                "level": 4
+            },
+            {
+               "countryID": 2,
+                "name": "Germany",
+                "case_rate": 8.9,
+                "new_cases": 72447,
+                "new_deaths": 1227,
+                "avg_cases": 4780,
+                "avg_deaths": 2138,
+                "level": 4
+            }
+                
+        ],
+        "city": [
+            {
+                "cityID": 1,
+                "name": "Madrid",
+                "green_surface_percent":21.04,
+                "covid_cases_rate": 15,
+                "air_quality": 17,
+                "grade": 4.65
+            }
+    ]
+  }
+}
