@@ -9,7 +9,13 @@
                 "new_deaths": 1918,
                 "avg_cases": 1597,
                 "avg_deaths": 8565,
-                "level": 4
+                "level": 4,
+                "aqi": 9.3,
+                "temperature": -3,
+                "description": "Light snow",
+                "pressure": 1011.9,
+                "humidity": 92,
+                "capital": "Moscow"
             },
             {
                "countryID": 2,
@@ -19,7 +25,13 @@
                 "new_deaths": 1227,
                 "avg_cases": 4780,
                 "avg_deaths": 2138,
-                "level": 4
+                "level": 4,
+                "aqi": 10.1,
+                "temperature": 2,
+                "description": "Cloudy",
+                "pressure": 999.3,
+                "humidity": 93,
+                "capital": "Berlin"
             },
             {
                 "countryID": 3,
@@ -29,7 +41,13 @@
                 "new_deaths": 2126,
                 "avg_cases": 4529,
                 "avg_deaths": 831,
-                "level": 4
+                "level": 4,
+                "aqi": 8.3,
+                "temperature": 6,
+                "description": "Cloudy",
+                "pressure": 999.7,
+                "humidity": 84,
+                "capital": "London"
             },
             {
                 "countryID": 4,
@@ -39,7 +57,13 @@
                 "new_deaths": 1824,
                 "avg_cases": 610,
                 "avg_deaths": 414,
-                "level": 3
+                "level": 3,
+                "aqi": 11.1,
+                "temperature": 7,
+                "description": "Cloudy",
+                "pressure": 1002.7,
+                "humidity": 87,
+                "capital": "Paris"
             },
             {
                 "countryID": 5,
@@ -49,7 +73,13 @@
                 "new_deaths": 2222,
                 "avg_cases": 1582,
                 "avg_deaths": 537,
-                "level": 3
+                "level": 3,
+                "aqi": 18.5,
+                "temperature": 14,
+                "description": "Cloudy",
+                "pressure": 1005.1,
+                "humidity": 81,
+                "capital": "Rome"
             },
             {
                 "countryID": 6,
@@ -59,7 +89,13 @@
                 "new_deaths": 1885,
                 "avg_cases": 1538,
                 "avg_deaths": 204,
-                "level": 3
+                "level": 3,
+                "aqi": 10.4,
+                "temperature": 5,
+                "description": "Fair",
+                "pressure": 1022.4,
+                "humidity": 62,
+                "capital": "Madrid"
             },
             {
                 "countryID": 7,
@@ -69,7 +105,13 @@
                 "new_deaths": 2030,
                 "avg_cases": 1783,
                 "avg_deaths": 3417,
-                "level": 4
+                "level": 4,
+                "aqi": 19.2,
+                "temperature": -2,
+                "description": "Fair",
+                "pressure": 1012.5,
+                "humidity": 92,
+                "capital": "Kiev"
             },
             {
                 "countryID": 8,
@@ -79,7 +121,13 @@
                 "new_deaths": 2266,
                 "avg_cases": 4297,
                 "avg_deaths": 2520,
-                "level": 4
+                "level": 4,
+                "aqi": 16.9,
+                "temperature": -1,
+                "description": "Cloudy",
+                "pressure": 1004.7,
+                "humidity": 82,
+                "capital": "Warsaw"
             },
             {
                 "countryID": 9,
@@ -89,7 +137,13 @@
                 "new_deaths": 2992,
                 "avg_cases": 514,
                 "avg_deaths": 791,
-                "level": 4
+                "level": 4,
+                "aqi": 15.8,
+                "temperature": 4,
+                "description": "Cloudy",
+                "pressure": 1011.5,
+                "humidity": 91,
+                "capital": "Bucharest"
             },
             {
                 "countryID": 10,
@@ -99,7 +153,13 @@
                 "new_deaths": 1139,
                 "avg_cases": 8776,
                 "avg_deaths": 369,
-                "level": 4
+                "level": 4,
+                "aqi": 9.7,
+                "temperature": 4,
+                "description": "Cloudy",
+                "pressure": 995.3,
+                "humidity": 89,
+                "capital": "Amsterdam"
             },
             {
                 "countryID": 11,
@@ -109,7 +169,13 @@
                 "new_deaths": 2330,
                 "avg_cases": 11122,
                 "avg_deaths": 327,
-                "level": 4
+                "level": 4,
+                "aqi": 8.9,
+                "temperature": 4,
+                "description": "Rain",
+                "pressure": 998.0,
+                "humidity": 88,
+                "capital": "Brussels"
             },
             {
                 "countryID": 12,
@@ -119,7 +185,13 @@
                 "new_deaths": 3127,
                 "avg_cases": 11317,
                 "avg_deaths": 794,
-                "level": 4
+                "level": 4,
+                "aqi": 12.3,
+                "temperature": 3,
+                "description": "Cloudy",
+                "pressure": 1001.7,
+                "humidity": 90,
+                "capital": "Prague"
             },
             {
                 "countryID": 13,
@@ -129,7 +201,13 @@
                 "new_deaths": 1780,
                 "avg_cases": 4128,
                 "avg_deaths": 648,
-                "level": 4
+                "level": 4,
+                "aqi": 18.4,
+                "temperature": 14,
+                "description": "Fair",
+                "pressure": 1008.1,
+                "humidity": 89,
+                "capital": "Athens"
             },
             {
                 "countryID": 14,
@@ -139,7 +217,13 @@
                 "new_deaths": 1821,
                 "avg_cases": 2059,
                 "avg_deaths": 99,
-                "level": 3
+                "level": 3,
+                "aqi": 9.1,
+                "temperature": 12,
+                "description": "Cloudy",
+                "pressure": 1028.5,
+                "humidity": 82,
+                "capital": "Lisbon"
             },
             {
                 "countryID": 15,
@@ -149,7 +233,13 @@
                 "new_deaths": 1486,
                 "avg_cases": 1107,
                 "avg_deaths": 9,
-                "level": 3
+                "level": 3,
+                "aqi": 5.0,
+                "temperature": -8,
+                "description": "Cloudy",
+                "pressure": 1017.3,
+                "humidity": 88,
+                "capital": "Stockholm"
             },
             {
                 "countryID": 16,
@@ -159,7 +249,13 @@
                 "new_deaths": 3649,
                 "avg_cases": 6855,
                 "avg_deaths": 1256,
-                "level": 4
+                "level": 4,
+                "aqi": 14.3,
+                "temperature": 1,
+                "description": "Snow",
+                "pressure": 1005.4,
+                "humidity": 96,
+                "capital": "Budapest"
             },
             {
                 "countryID": 17,
@@ -169,7 +265,13 @@
                 "new_deaths": 545,
                 "avg_cases": 1242,
                 "avg_deaths": 104,
-                "level": 4
+                "level": 4,
+                "aqi": 16.5,
+                "temperature": -3,
+                "description": "Cloudy",
+                "pressure": 1008.8,
+                "humidity": 96,
+                "capital": "Minsk"
             },
             {
                 "countryID": 18,
@@ -179,7 +281,13 @@
                 "new_deaths": 1405,
                 "avg_cases": 7142,
                 "avg_deaths": 409,
-                "level": 4
+                "level": 4,
+                "aqi": 10.9,
+                "temperature": 3,
+                "description": "Rain",
+                "pressure": 1003.4,
+                "humidity": 90,
+                "capital": "Vienna"
             },
             {
                 "countryID": 19,
@@ -189,7 +297,13 @@
                 "new_deaths": 1363,
                 "avg_cases": 1646,
                 "avg_deaths": 353,
-                "level": 4
+                "level": 4,
+                "aqi": 24.3,
+                "temperature": 3,
+                "description": "Rain",
+                "pressure": 1006.8,
+                "humidity": 88,
+                "capital": "Belgrade"
             },
             {
                 "countryID": 20,
@@ -199,7 +313,13 @@
                 "new_deaths": 1328,
                 "avg_cases": 5986,
                 "avg_deaths": 115,
-                "level": 4
+                "level": 4,
+                "aqi": 9.0,
+                "temperature": 0,
+                "description": "Cloudy",
+                "pressure": 1007.1,
+                "humidity": 94,
+                "capital": "Bern"
             },
             {
                 "countryID": 21,
@@ -209,7 +329,13 @@
                 "new_deaths": 684,
                 "avg_cases": 2045,
                 "avg_deaths": 773,
-                "level": 4
+                "level": 4,
+                "aqi": 27.5,
+                "temperature": 4,
+                "description": "Cloudy",
+                "pressure": 1011.1,
+                "humidity": 81,
+                "capital": "Sofia"
             },
             {
                 "countryID": 22,
@@ -219,7 +345,13 @@
                 "new_deaths": 503,
                 "avg_cases": 5303,
                 "avg_deaths": 77,
-                "level": 4
+                "level": 4,
+                "aqi": 9.4,
+                "temperature": 1,
+                "description": "Cloudy",
+                "pressure": 1005.1,
+                "humidity": 80,
+                "capital": "Copenhagen"
             },
             {
                 "countryID": 23,
@@ -229,7 +361,13 @@
                 "new_deaths": 245,
                 "avg_cases": 1610,
                 "avg_deaths": 51,
-                "level": 3
+                "level": 3,
+                "aqi": 5.0,
+                "temperature": -14,
+                "description": "Cloudy",
+                "pressure": 1017.6,
+                "humidity": 82,
+                "capital": "Helsinki"
             },
             {
                 "countryID": 24,
@@ -239,7 +377,13 @@
                 "new_deaths": 2704,
                 "avg_cases": 11259,
                 "avg_deaths": 519,
-                "level": 4
+                "level": 4,
+                "aqi": 15.3,
+                "temperature": 1,
+                "description": "Rain",
+                "pressure": 1004.1,
+                "humidity": 98,
+                "capital": "Bratislava"
             },
             {
                 "countryID": 25,
@@ -249,7 +393,13 @@
                 "new_deaths": 199,
                 "avg_cases": 4131,
                 "avg_deaths": 33,
-                "level": 4
+                "level": 4,
+                "aqi": 5.7,
+                "temperature": -7,
+                "description": "Cloudy",
+                "pressure": 1015.2,
+                "humidity": 82,
+                "capital": "Oslo"
             },
             {
                 "countryID": 26,
@@ -259,7 +409,13 @@
                 "new_deaths": 1138,
                 "avg_cases": 6368,
                 "avg_deaths": 55,
-                "level": 4
+                "level": 4,
+                "aqi": 8.6,
+                "temperature": 5,
+                "description": "Fair",
+                "pressure": 1012.5,
+                "humidity": 89,
+                "capital": "Dublin"
             },
             {
                 "countryID": 27,
@@ -269,7 +425,13 @@
                 "new_deaths": 2740,
                 "avg_cases": 7201,
                 "avg_deaths": 452,
-                "level": 4
+                "level": 4,
+                "aqi": 21.2,
+                "temperature": 3,
+                "description": "Rain",
+                "pressure": 1003.4,
+                "humidity": 91,
+                "capital": "Zagreb"
             },
             {
                 "countryID": 28,
@@ -279,7 +441,13 @@
                 "new_deaths": 2286,
                 "avg_cases": 966,
                 "avg_deaths": 170,
-                "level": 4
+                "level": 4,
+                "aqi": 15.7,
+                "temperature": 1,
+                "description": "Cloudy",
+                "pressure": 1011.1,
+                "humidity": 92,
+                "capital": "Chisinau"
             },
             {
                 "countryID": 29,
@@ -289,7 +457,13 @@
                 "new_deaths": 3902,
                 "avg_cases": 1362,
                 "avg_deaths": 231,
-                "level": 4
+                "level": 4,
+                "aqi": 40.6,
+                "temperature": 3,
+                "description": "Cloudy",
+                "pressure": 1007.1,
+                "humidity": 81,
+                "capital": "Sarajevo"
             },
             {
                 "countryID": 30,
@@ -299,7 +473,13 @@
                 "new_deaths": 1082,
                 "avg_cases": 805,
                 "avg_deaths": 31,
-                "level": 4
+                "level": 4,
+                "aqi": 16.0,
+                "temperature": 11,
+                "description": "Fair",
+                "pressure": 1011.2,
+                "humidity": 88,
+                "capital": "Tirana"
             },
             {
                 "countryID": 31,
@@ -309,7 +489,13 @@
                 "new_deaths": 2558,
                 "avg_cases": 4440,
                 "avg_deaths": 160,
-                "level": 4
+                "level": 4,
+                "aqi": 11.7,
+                "temperature": 0,
+                "description": "Cloudy",
+                "pressure": 1006.1,
+                "humidity": 98,
+                "capital": "Vilnius"
             },
             {
                 "countryID": 32,
@@ -319,7 +505,13 @@
                 "new_deaths": 3656,
                 "avg_cases": 1179,
                 "avg_deaths": 105,
-                "level": 4
+                "level": 4,
+                "aqi": 30.6,
+                "temperature": 5,
+                "description": "Cloudy",
+                "pressure": 1011.5,
+                "humidity": 97,
+                "capital": "Skopje"
             },
             {
                 "countryID": 33,
@@ -329,7 +521,13 @@
                 "new_deaths": 2544,
                 "avg_cases": 6427,
                 "avg_deaths": 130,
-                "level": 4
+                "level": 4,
+                "aqi": 15.2,
+                "temperature": 2,
+                "description": "Rain",
+                "pressure": 1003.0,
+                "humidity": 99,
+                "capital": "Ljubljana"
             },
             {
                 "countryID": 34,
@@ -339,7 +537,13 @@
                 "new_deaths": 1367,
                 "avg_cases": 2772,
                 "avg_deaths": 29,
-                "level": 4
+                "level": 4,
+                "aqi": 5.9,
+                "temperature": -9,
+                "description": "Snow",
+                "pressure": 1015.2,
+                "humidity": 92,
+                "capital": "Tallinn"
             },
             {
                 "countryID": 35,
@@ -349,7 +553,13 @@
                 "new_deaths": 1367,
                 "avg_cases": 2772,
                 "avg_deaths": 55,
-                "level": 4
+                "level": 4,
+                "aqi": 26.1,
+                "temperature": 9,
+                "description": "Cloudy",
+                "pressure": 1011.2,
+                "humidity": 89,
+                "capital": "Podgorica"
             },
             {
                 "countryID": 36,
@@ -359,7 +569,13 @@
                 "new_deaths": 3696,
                 "avg_cases": 2878,
                 "avg_deaths": 41,
-                "level": 4
+                "level": 4,
+                "aqi": 9.0,
+                "temperature": 3,
+                "description": "Cloudy",
+                "pressure": 1002.0,
+                "humidity": 90,
+                "capital": "Luxembourg"
             },
             {
                 "countryID": 37,
@@ -369,7 +585,13 @@
                 "new_deaths": 1374,
                 "avg_cases": 4163,
                 "avg_deaths": 14,
-                "level": 3
+                "level": 3,
+                "aqi": 11.8,
+                "temperature": 17,
+                "description": "Fair",
+                "pressure": 1015.6,
+                "humidity": 81,
+                "capital": "Valleta"
             },
             {
                 "countryID": 38,
@@ -379,7 +601,13 @@
                 "new_deaths": 1056,
                 "avg_cases": 1667,
                 "avg_deaths": 79,
-                "level": 4
+                "level": 4,
+                "aqi": 7.2,
+                "temperature": 1,
+                "description": "Cloudy",
+                "pressure": 1008.8,
+                "humidity": 67,
+                "capital": "Reykjavik"
             },
             {
                 "countryID": 39,
@@ -389,7 +617,13 @@
                 "new_deaths": 102,
                 "avg_cases": 2576,
                 "avg_deaths": 34,
-                "level": 3
+                "level": 3,
+                "aqi": 7.4,
+                "temperature": -3,
+                "description": "Cloudy",
+                "pressure": 1012.9,
+                "humidity": 85,
+                "capital": "Andorra la Vella"
             },
             {
                 "countryID": 40,
@@ -399,7 +633,13 @@
                 "new_deaths": 1705,
                 "avg_cases": 16761,
                 "avg_deaths": 1,
-                "level": 3
+                "level": 3,
+                "aqi": 19.8,
+                "temperature": 9,
+                "description": "Clear",
+                "pressure": 1002.0,
+                "humidity": 39,
+                "capital": "Monaco"
             }
             
                 

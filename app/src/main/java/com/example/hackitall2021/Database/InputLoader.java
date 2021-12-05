@@ -39,7 +39,10 @@ public class InputLoader {
                 countriesList.add(new Country(country.getInt("countryID"), country.getString("name"),
                         country.getDouble("case_rate"), country.getInt("new_cases"),
                         country.getInt("new_deaths"), country.getInt("avg_cases"),
-                        country.getInt("avg_deaths"), country.getInt("level")));
+                        country.getInt("avg_deaths"), country.getInt("level"),
+                        country.getDouble("aqi"), country.getInt("temperature"),
+                        country.getString("description"), country.getDouble("pressure"),
+                        country.getInt("humidity"), country.getString("capital")));
                 //return country.getString("name");
             }
 

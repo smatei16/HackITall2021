@@ -8,6 +8,7 @@
     android:background="@drawable/munte">
 
     <Button
+        android:id="@+id/search_button"
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:layout_marginTop="92dp"
@@ -20,42 +21,63 @@
 
     <Button
         android:id="@+id/albastru"
-        android:layout_width="305dp"
-        android:layout_height="103dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
         android:background="@drawable/butonmistoalbastru"
         android:padding="15dp"
         android:text="Button \n titlu"
-        tools:layout_editor_absoluteX="82dp"
-        tools:layout_editor_absoluteY="421dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:drawableLeft="@drawable/air"/>
 
     <Button
         android:id="@+id/rosu"
-        android:layout_width="304dp"
-        android:layout_height="101dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
         android:background="@drawable/butonmistorosu"
         android:padding="15dp"
         android:text="Mirel\nmlid"
-        tools:layout_editor_absoluteX="83dp"
-        tools:layout_editor_absoluteY="549dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/albastru"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:drawableLeft="@drawable/coronavirus"/>
 
     <Button
         android:id="@+id/verde"
-        android:layout_width="305dp"
-        android:layout_height="98dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
         android:background="@drawable/butonmistoverde"
         android:padding="15dp"
         android:text="Button Background Transparent"
-        tools:layout_editor_absoluteX="83dp"
-        tools:layout_editor_absoluteY="679dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rosu"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:drawableLeft="@drawable/c1"/>
 
     <TextView
-        android:layout_width="171dp"
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
         android:layout_height="81dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:gravity="center"
         android:text="ALERT LEVEL"
         android:textSize="20dp"
-        android:gravity="center"
-        tools:layout_editor_absoluteX="153dp"
-        tools:layout_editor_absoluteY="289dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/autoCompleteTextViewCountry" />
 
     <AutoCompleteTextView
         android:id="@+id/autoCompleteTextViewCountry"
