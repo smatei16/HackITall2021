@@ -20,17 +20,660 @@
                 "avg_cases": 4780,
                 "avg_deaths": 2138,
                 "level": 4
+            },
+            {
+                "countryID": 3,
+                "name": "United Kingdom",
+                "case_rate": 8.6,
+                "new_cases": 151766,
+                "new_deaths": 2126,
+                "avg_cases": 4529,
+                "avg_deaths": 831,
+                "level": 4
+            },
+            {
+                "countryID": 4,
+                "name": "France",
+                "case_rate": 4.7,
+                "new_cases": 119480,
+                "new_deaths": 1824,
+                "avg_cases": 610,
+                "avg_deaths": 414,
+                "level": 3
+            },
+            {
+                "countryID": 5,
+                "name": "Italy",
+                "case_rate": 2.2,
+                "new_cases": 84154,
+                "new_deaths": 2222,
+                "avg_cases": 1582,
+                "avg_deaths": 537,
+                "level": 3
+            },
+            {
+                "countryID": 6,
+                "name": "Spain",
+                "case_rate": 2.0,
+                "new_cases": 111221,
+                "new_deaths": 1885,
+                "avg_cases": 1538,
+                "avg_deaths": 204,
+                "level": 3
+            },
+            {
+                "countryID": 7,
+                "name": "Ukraine",
+                "case_rate": 4.6,
+                "new_cases": 80508,
+                "new_deaths": 2030,
+                "avg_cases": 1783,
+                "avg_deaths": 3417,
+                "level": 4
+            },
+            {
+                "countryID": 8,
+                "name": "Poland",
+                "case_rate": 8.1,
+                "new_cases": 96567,
+                "new_deaths": 2266,
+                "avg_cases": 4297,
+                "avg_deaths": 2520,
+                "level": 4
+            },
+            {
+                "countryID": 9,
+                "name": "Romania",
+                "case_rate": 1.6,
+                "new_cases": 93681,
+                "new_deaths": 2992,
+                "avg_cases": 514,
+                "avg_deaths": 791,
+                "level": 4
+            },
+            {
+                "countryID": 10,
+                "name": "Netherlands",
+                "case_rate": 17.5,
+                "new_cases": 157444,
+                "new_deaths": 1139,
+                "avg_cases": 8776,
+                "avg_deaths": 369,
+                "level": 4
+            },
+            {
+                "countryID": 11,
+                "name": "Belgium",
+                "case_rate": 20.6,
+                "new_cases": 156712,
+                "new_deaths": 2330,
+                "avg_cases": 11122,
+                "avg_deaths": 327,
+                "level": 4
+            },
+            {
+                "countryID": 12,
+                "name": "Czech Republic",
+                "case_rate": 22.0,
+                "new_cases": 207666,
+                "new_deaths": 3127,
+                "avg_cases": 11317,
+                "avg_deaths": 794,
+                "level": 4
+            },
+            {
+                "countryID": 13,
+                "name": "Greece",
+                "case_rate": 8.6,
+                "new_cases": 92511,
+                "new_deaths": 1780,
+                "avg_cases": 4128,
+                "avg_deaths": 648,
+                "level": 4
+            },
+            {
+                "countryID": 14,
+                "name": "Portugal",
+                "case_rate": 3.5,
+                "new_cases": 113975,
+                "new_deaths": 1821,
+                "avg_cases": 2059,
+                "avg_deaths": 99,
+                "level": 3
+            },
+            {
+                "countryID": 15,
+                "name": "Sweden",
+                "case_rate": 1.8,
+                "new_cases": 118969,
+                "new_deaths": 1486,
+                "avg_cases": 1107,
+                "avg_deaths": 9,
+                "level": 3
+            },
+            {
+                "countryID": 16,
+                "name": "Hungary",
+                "case_rate": 13.9,
+                "new_cases": 117903,
+                "new_deaths": 3649,
+                "avg_cases": 6855,
+                "avg_deaths": 1256,
+                "level": 4
+            },
+            {
+                "countryID": 17,
+                "name": "Belarus",
+                "case_rate": 2.5,
+                "new_cases": 70097,
+                "new_deaths": 545,
+                "avg_cases": 1242,
+                "avg_deaths": 104,
+                "level": 4
+            },
+            {
+                "countryID": 18,
+                "name": "Austria",
+                "case_rate": 20.3,
+                "new_cases": 131428,
+                "new_deaths": 1405,
+                "avg_cases": 7142,
+                "avg_deaths": 409,
+                "level": 4
+            },
+            {
+                "countryID": 19,
+                "name": "Serbia",
+                "case_rate": 5.7,
+                "new_cases": 145131,
+                "new_deaths": 1363,
+                "avg_cases": 1646,
+                "avg_deaths": 353,
+                "level": 4
+            },
+            {
+                "countryID": 20,
+                "name": "Switzerland",
+                "case_rate": 10.6,
+                "new_cases": 118901,
+                "new_deaths": 1328,
+                "avg_cases": 5986,
+                "avg_deaths": 115,
+                "level": 4
+            },
+            {
+                "countryID": 21,
+                "name": "Bulgaria",
+                "case_rate": 4.9,
+                "new_cases": 102046,
+                "new_deaths": 684,
+                "avg_cases": 2045,
+                "avg_deaths": 773,
+                "level": 4
+            },
+            {
+                "countryID": 22,
+                "name": "Denmark",
+                "case_rate": 9.1,
+                "new_cases": 86196,
+                "new_deaths": 503,
+                "avg_cases": 5303,
+                "avg_deaths": 77,
+                "level": 4
+            },
+            {
+                "countryID": 23,
+                "name": "Finland",
+                "case_rate": 2.7,
+                "new_cases": 34437,
+                "new_deaths": 245,
+                "avg_cases": 1610,
+                "avg_deaths": 51,
+                "level": 3
+            },
+            {
+                "countryID": 24,
+                "name": "Slovakia",
+                "case_rate": 25.3,
+                "new_cases": 132172,
+                "new_deaths": 2704,
+                "avg_cases": 11259,
+                "avg_deaths": 519,
+                "level": 4
+            },
+            {
+                "countryID": 25,
+                "name": "Norway",
+                "case_rate": 6.1,
+                "new_cases": 51073,
+                "new_deaths": 199,
+                "avg_cases": 4131,
+                "avg_deaths": 33,
+                "level": 4
+            },
+            {
+                "countryID": 26,
+                "name": "Ireland",
+                "case_rate": 12.4,
+                "new_cases": 116320,
+                "new_deaths": 1138,
+                "avg_cases": 6368,
+                "avg_deaths": 55,
+                "level": 4
+            },
+            {
+                "countryID": 27,
+                "name": "Croatia",
+                "case_rate": 15.9,
+                "new_cases": 154386,
+                "new_deaths": 2740,
+                "avg_cases": 7201,
+                "avg_deaths": 452,
+                "level": 4
+            },
+            {
+                "countryID": 28,
+                "name": "Moldova",
+                "case_rate": 2.4,
+                "new_cases": 90959,
+                "new_deaths": 2286,
+                "avg_cases": 966,
+                "avg_deaths": 170,
+                "level": 4
+            },
+            {
+                "countryID": 29,
+                "name": "Bosnia and Herzegovina",
+                "case_rate": 2.8,
+                "new_cases": 85254,
+                "new_deaths": 3902,
+                "avg_cases": 1362,
+                "avg_deaths": 231,
+                "level": 4
+            },
+            {
+                "countryID": 30,
+                "name": "Albania",
+                "case_rate": 2.3,
+                "new_cases": 69969,
+                "new_deaths": 1082,
+                "avg_cases": 805,
+                "avg_deaths": 31,
+                "level": 4
+            },
+            {
+                "countryID": 31,
+                "name": "Lithuania",
+                "case_rate": 8.8,
+                "new_cases": 179260,
+                "new_deaths": 2558,
+                "avg_cases": 4440,
+                "avg_deaths": 160,
+                "level": 4
+            },
+            {
+                "countryID": 32,
+                "name": "North Macedonia",
+                "case_rate": 2.8,
+                "new_cases": 104006,
+                "new_deaths": 3656,
+                "avg_cases": 1179,
+                "avg_deaths": 105,
+                "level": 4
+            },
+            {
+                "countryID": 33,
+                "name": "Slovenia",
+                "case_rate": 18.3,
+                "new_cases": 206289,
+                "new_deaths": 2544,
+                "avg_cases": 6427,
+                "avg_deaths": 130,
+                "level": 4
+            },
+            {
+                "countryID": 34,
+                "name": "Estonia",
+                "case_rate": 7.0,
+                "new_cases": 169192,
+                "new_deaths": 1367,
+                "avg_cases": 2772,
+                "avg_deaths": 29,
+                "level": 4
+            },
+            {
+                "countryID": 35,
+                "name": "Montenegro",
+                "case_rate": 7.7,
+                "new_cases": 35321,
+                "new_deaths": 1367,
+                "avg_cases": 2772,
+                "avg_deaths": 55,
+                "level": 4
+            },
+            {
+                "countryID": 36,
+                "name": "Luxembourg",
+                "case_rate": 7.2,
+                "new_cases": 251642,
+                "new_deaths": 3696,
+                "avg_cases": 2878,
+                "avg_deaths": 41,
+                "level": 4
+            },
+            {
+                "countryID": 37,
+                "name": "Malta",
+                "case_rate": 2.1,
+                "new_cases": 141739,
+                "new_deaths": 1374,
+                "avg_cases": 4163,
+                "avg_deaths": 14,
+                "level": 3
+            },
+            {
+                "countryID": 38,
+                "name": "Iceland",
+                "case_rate": 5.6,
+                "new_cases": 89945,
+                "new_deaths": 1056,
+                "avg_cases": 1667,
+                "avg_deaths": 79,
+                "level": 4
+            },
+            {
+                "countryID": 39,
+                "name": "Andorra",
+                "case_rate": 15.9,
+                "new_cases": 53233,
+                "new_deaths": 102,
+                "avg_cases": 2576,
+                "avg_deaths": 34,
+                "level": 3
+            },
+            {
+                "countryID": 40,
+                "name": "Monaco",
+                "case_rate": 6.4,
+                "new_cases": 232564,
+                "new_deaths": 1705,
+                "avg_cases": 16761,
+                "avg_deaths": 1,
+                "level": 3
             }
+            
                 
         ],
         "city": [
             {
                 "cityID": 1,
                 "name": "Madrid",
+                "country_name": "Spain",
                 "green_surface_percent":21.04,
                 "covid_cases_rate": 15,
                 "air_quality": 17,
                 "grade": 4.65
+            },
+            {
+                "cityID": 2,
+                "name": "London",
+                "country_name": "United Kingdom",
+                "green_surface_percent": 47.0,
+                "covid_cases_rate": 37,
+                "air_quality": 82,
+                "grade": 4.73
+            },
+            {
+                "cityID": 3,
+                "name": "Lisbon",
+                "country_name": "Portugal",
+                "green_surface_percent": 35.97,
+                "covid_cases_rate": 23,
+                "air_quality": 24,
+                "grade": 4.45
+            },
+            {
+                "cityID": 4,
+                "name": "Paris",
+                "country_name": "France",
+                "green_surface_percent": 9.5,
+                "covid_cases_rate": 38,
+                "air_quality": 38,
+                "grade": 4.76
+            },
+            {
+                "cityID": 5,
+                "name": "Moscow",
+                "country_name": "Russia",
+                "green_surface_percent": 54,
+                "covid_cases_rate": 32,
+                "air_quality": 34,
+                "grade": 4.66
+            },
+            {
+                "cityID": 6,
+                "name": "Berlin",
+                "country_name": "Germany",
+                "green_surface_percent": 44,
+                "covid_cases_rate": 57,
+                "air_quality": 22,
+                "grade": 4.51
+            },
+            {
+                "cityID": 7,
+                "name": "Rome",
+                "country_name": "Italy",
+                "green_surface_percent": 44,
+                "covid_cases_rate": 38,
+                "air_quality": 46,
+                "grade": 4.62
+            },
+            {
+                "cityID": 8,
+                "name": "Kiev",
+                "country_name": "Ukraine",
+                "green_surface_percent": 40,
+                "covid_cases_rate": 12,
+                "air_quality": 196,
+                "grade": 4.31
+            },
+            {
+                "cityID": 9,
+                "name": "Bucharest",
+                "country_name": "Romania",
+                "green_surface_percent": 23,
+                "covid_cases_rate": 2,
+                "air_quality": 21,
+                "grade": 4.45
+            },
+            {
+                "cityID": 10,
+                "name": "Amsterdam",
+                "country_name": "Netherlands",
+                "green_surface_percent": 13,
+                "covid_cases_rate": 4,
+                "air_quality": 19,
+                "grade": 4.68
+            },
+            {
+                "cityID": 11,
+                "name": "Bruxelles",
+                "country_name": "Belgium",
+                "green_surface_percent": 55,
+                "covid_cases_rate": 18,
+                "air_quality": 25,
+                "grade": 4.7
+            },
+            {
+                "cityID": 12,
+                "name": "Athens",
+                "country_name": "Greece",
+                "green_surface_percent": 14,
+                "covid_cases_rate": 6,
+                "air_quality": 70,
+                "grade": 4.35
+            },
+            {
+                "cityID": 13,
+                "name": "Stockholm",
+                "country_name": "Sweden",
+                "green_surface_percent": 40,
+                "covid_cases_rate": 6,
+                "air_quality": 21,
+                "grade": 4.71
+            },
+            {
+                "cityID": 14,
+                "name": "Budapest",
+                "country_name": "Hungary",
+                "green_surface_percent": 65,
+                "covid_cases_rate": 1,
+                "air_quality": 91,
+                "grade": 4.68
+            },
+            {
+                "cityID": 15,
+                "name": "Wien",
+                "country_name": "Austria",
+                "green_surface_percent": 45,
+                "covid_cases_rate": 9,
+                "air_quality": 55,
+                "grade": 4.74
+            },
+            {
+                "cityID": 16,
+                "name": "Belgrad",
+                "country_name": "Serbia",
+                "green_surface_percent": 25,
+                "covid_cases_rate": 2,
+                "air_quality": 154,
+                "grade": 4.42
+            },
+            {
+                "cityID": 17,
+                "name": "Copenhagen",
+                "country_name": "Denmark",
+                "green_surface_percent": 25,
+                "covid_cases_rate": 5,
+                "air_quality": 28,
+                "grade": 4.76
+            },
+            {
+                "cityID": 18,
+                "name": "Helsinki",
+                "country_name": "Finland",
+                "green_surface_percent": 40,
+                "covid_cases_rate": 1,
+                "air_quality": 28,
+                "grade": 4.78
+            },
+            {
+                "cityID": 19,
+                "name": "Oslo",
+                "country_name": "Norway",
+                "green_surface_percent": 21,
+                "covid_cases_rate": 3,
+                "air_quality": 49,
+                "grade": 4.75
+            },
+            {
+                "cityID": 20,
+                "name": "Dublin",
+                "country_name": "Ireland",
+                "green_surface_percent": 26,
+                "covid_cases_rate": 5,
+                "air_quality": 37,
+                "grade": 4.73
+            },
+            {
+                "cityID": 21,
+                "name": "Zagreb",
+                "country_name": "Croatia",
+                "green_surface_percent": 20,
+                "covid_cases_rate": 4,
+                "air_quality": 14,
+                "grade": 4.66
+            },
+            {
+                "cityID": 22,
+                "name": "Luxembourg",
+                "country_name": "Luxembourg",
+                "green_surface_percent": 38,
+                "covid_cases_rate": 1,
+                "air_quality": 25,
+                "grade": 4.74
+            },
+            {
+                "cityID": 23,
+                "name": "Reykjavik",
+                "country_name": "Iceland",
+                "green_surface_percent": 19,
+                "covid_cases_rate": 1,
+                "air_quality": 34,
+                "grade": 4.7
+            },
+            {
+                "cityID": 24,
+                "name": "Slowenien",
+                "country_name": "Ljubljana",
+                "green_surface_percent": 75,
+                "covid_cases_rate": 2,
+                "air_quality": 114,
+                "grade": 4.4
+            },
+            {
+                "cityID": 25,
+                "name": "Tirana",
+                "country_name": "Albania",
+                "green_surface_percent": 10,
+                "covid_cases_rate": 1,
+                "air_quality": 89,
+                "grade": 4.3
+            },
+            {
+                "cityID": 26,
+                "name": "Barcelona",
+                "country_name": "Spain",
+                "green_surface_percent": 11,
+                "covid_cases_rate": 2,
+                "air_quality": 22,
+                "grade": 4.8
+            },
+            {
+                "cityID": 27,
+                "name": "Marseille",
+                "country_name": "France",
+                "green_surface_percent": 50,
+                "covid_cases_rate": 38,
+                "air_quality": 23,
+                "grade": 4.75
+            },
+            {
+                "cityID": 28,
+                "name": "Manchester",
+                "country_name": "United Kingdom",
+                "green_surface_percent": 16,
+                "covid_cases_rate": 37,
+                "air_quality": 42,
+                "grade": 4.68
+            },
+            {
+                "cityID": 29,
+                "name": "Liverpool",
+                "country_name": "United Kingdom",
+                "green_surface_percent": 17,
+                "covid_cases_rate": 37,
+                "air_quality": 36,
+                "grade": 4.68
+            },
+            {
+                "cityID": 30,
+                "name": "Milan",
+                "country_name": "Italy",
+                "green_surface_percent": 13,
+                "covid_cases_rate": 2,
+                "air_quality": 107,
+                "grade": 4.7
             }
     ]
   }

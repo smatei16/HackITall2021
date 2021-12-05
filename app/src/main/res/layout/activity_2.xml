@@ -7,18 +7,31 @@
     tools:context=".Activity2"
     android:background="@drawable/munte">
 
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="92dp"
+        android:layout_marginBottom="594dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:drawableStart="@drawable/sfinal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <AutoCompleteTextView
+        android:id="@+id/autoCompleteTextViewCountry"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="82dp"
         android:layout_marginBottom="584dp"
-        android:drawableEnd="@drawable/sfinal"
         android:hint="Find your dream vacation!"
         android:textStyle="italic"
         android:typeface="monospace"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
