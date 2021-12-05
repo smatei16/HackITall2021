@@ -47,6 +47,7 @@ public class CountryListAdapter extends ArrayAdapter<Country> {
         int resourceId = context.getResources().getIdentifier("c" + country.getCountryID(), "drawable", context.getPackageName());
         //imageViewPhoto.setImageResource();
         imageViewPhoto.setImageResource(resourceId);
+        imageViewPhoto.setMaxWidth(100);
         return view;
     }
 
