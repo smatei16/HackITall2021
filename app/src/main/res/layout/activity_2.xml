@@ -18,6 +18,45 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/albastru"
+        android:layout_width="305dp"
+        android:layout_height="103dp"
+        android:background="@drawable/butonmistoalbastru"
+        android:padding="15dp"
+        android:text="Button \n titlu"
+        tools:layout_editor_absoluteX="82dp"
+        tools:layout_editor_absoluteY="421dp" />
+
+    <Button
+        android:id="@+id/rosu"
+        android:layout_width="304dp"
+        android:layout_height="101dp"
+        android:background="@drawable/butonmistorosu"
+        android:padding="15dp"
+        android:text="Mirel\nmlid"
+        tools:layout_editor_absoluteX="83dp"
+        tools:layout_editor_absoluteY="549dp" />
+
+    <Button
+        android:id="@+id/verde"
+        android:layout_width="305dp"
+        android:layout_height="98dp"
+        android:background="@drawable/butonmistoverde"
+        android:padding="15dp"
+        android:text="Button Background Transparent"
+        tools:layout_editor_absoluteX="83dp"
+        tools:layout_editor_absoluteY="679dp" />
+
+    <TextView
+        android:layout_width="171dp"
+        android:layout_height="81dp"
+        android:text="ALERT LEVEL"
+        android:textSize="20dp"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="289dp" />
+
     <AutoCompleteTextView
         android:id="@+id/autoCompleteTextViewCountry"
         android:layout_width="match_parent"
