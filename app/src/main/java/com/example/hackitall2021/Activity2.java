@@ -31,6 +31,9 @@ public class Activity2 extends AppCompatActivity {
     private TextView alertLevel;
     List<Country> countryList;
 
+    private static Country countrystatic;
+    private static int type;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -43,10 +46,10 @@ public class Activity2 extends AppCompatActivity {
                 Country country = getCountryByName(autoCompleteTextViewCountry.getText().toString());
                 alertLevel.setText("ALERT LEVEL: " + country.getLevel());
                 if(country.getLevel() >= 3) {
-                    alertLevel.setBackgroundColor(getResources().getColor(R.color.rosucovid));
+                    alertLevel.setTextColor(getResources().getColor(R.color.rosucovid));
                 }
-                buttonCovid.setText("COVID 19\n14 Day Notification Rate " + country.getCase_rate());
-                buttonAir.setText("AIR QUALITY\nAQI 2020: " + country.getAqi());
+                buttonCovid.setText("COVID 19\n14 Day Notification Rate " + country.getCase_rate() + "‰");
+                buttonAir.setText("AIR QUALITY\nAQI 2020 (PM2.5): " + country.getAqi() + " µg/m³");
                 buttonWeather.setText(country.getCapital() + ", " + country.getName() + "\n" + country.getDescription() + " " + country.getTemperature() + "°C");
 
                 if(country.getDescription().equals("Rain")) {
@@ -58,6 +61,26 @@ public class Activity2 extends AppCompatActivity {
                 } else if(country.getDescription().equals("Fair") || country.getDescription().equals("Clear")) {
                     buttonWeather.setCompoundDrawablesWithIntrinsicBounds(R.drawable.sun, 0, 0, 0);
                 }
+
+                buttonCovid.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        type = 1;
+                        countrystatic = country;
+                        Intent intent = new Intent(getApplicationContext(), Activity3.class);
+                        startActivity(intent);
+                    }
+                });
+
+                buttonWeather.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        type = 2;
+                        countrystatic = country;
+                        Intent intent = new Intent(getApplicationContext(), Activity3.class);
+                        startActivity(intent);
+                    }
+                });
 
             }
         });
@@ -116,5 +139,13 @@ public class Activity2 extends AppCompatActivity {
             }
         }
         return null;
+    }
+
+    public static Country getCountry() {
+        return countrystatic;
+    }
+
+    public static int getType() {
+        return type;
     }
 }
