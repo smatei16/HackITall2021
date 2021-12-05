@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity3"
+    android:background="@drawable/phone">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="81dp"
+        android:layout_marginTop="169dp"
+        android:layout_marginEnd="82dp"
+        android:layout_marginBottom="504dp"
+        android:fontFamily="monospace"
+        android:text="Titlul nostru"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="32sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="250dp"
+        android:layout_height="330dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="65dp"
+        android:layout_marginEnd="81dp"
+        android:layout_marginBottom="107dp"
+        android:fontFamily="monospace"
+        android:textAlignment="center"
+        android:text="text is here"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/title" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="323dp"
+        android:layout_marginBottom="116dp"
+        android:background="@drawable/spate"
+        app:layout_constraintBottom_toTopOf="@+id/title"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
